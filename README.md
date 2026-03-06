@@ -21,11 +21,11 @@ Aqui no GitHub compartilho projetos acadêmicos, estudos e experimentos em progr
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirellaBrito1408&show_icons=true&theme=radical)
 
-Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirellaBrito1408&layout=compact&theme=radical)
 
 ---
 

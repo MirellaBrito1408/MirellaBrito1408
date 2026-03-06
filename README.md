@@ -21,14 +21,6 @@ Aqui no GitHub compartilho projetos acadêmicos, estudos e experimentos em progr
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirellaBrito1408&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirellaBrito1408&layout=compact&theme=radical)
-
----
-
 ## 🌐 Contato
 
 🔗 LinkedIn: www.linkedin.com/in/mirella-lima-5395a0382

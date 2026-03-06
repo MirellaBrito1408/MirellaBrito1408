@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**MirellaBrito1408/MirellaBrito1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Me chamo Mirella
 
-Here are some ideas to get you started:
+🎓 Estudante de Ciência da Computação no UNIPÊ – Centro Universitário de João Pessoa  
+📚 Atualmente no 3º período  
+💻 Interessada em desenvolvimento de software, programação, banco de dados e tecnologias em geral
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+Sou estudante de Ciência da Computação, muito interessada por tecnologia e aprendizado contínuo.  
+Aqui no GitHub compartilho projetos acadêmicos, estudos e experimentos em programação.
+
+---
+
+## 💻 Tech Stack
+
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,php,cpp,mysql,git,github,vscode"/>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+GitHub Stats
+
+Top Langs
+
+---
+
+## 🌐 Contato
+
+🔗 LinkedIn: www.linkedin.com/in/mirella-lima-5395a0382
